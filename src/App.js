@@ -4,32 +4,11 @@ import "./App.css";
 import mappingJsonData from "./data/countryMappings.json";
 import jsonData from "./data/world.json";
 import { COEFFICIENT, MAP_WIDTH, MAP_HEIGHT, defaultColorCode, regionColorCode, selectedCountryColorCode } from "./constants";
-
-const selectedRegion = {
-  countries: [
-    {
-      id: "CN",
-      name: "China"
-    }
-  ],
-  id: "AsiaPac",
-  name: "AsiaPac"
-};
-
-const selectedCountries = [
-  {
-    id: "CN",
-    name: "China"
-  },
-  {
-    id: "KR",
-    name: "South Korea"
-  },
-]
+import { highlightCountries, highlightAllCountries, getMappingCountriesInSelectedRegion, getMappingCountriesInSelectedCoutries } from './MapUtil';
+import { selectedRegion , selectedCountries} from './data/inputValue';
 
 function App() {
   // useState 必须给定初始值，否则会报错：??of undefined; but why？
-  const [projection, setProjection] = useState("");
   // const [path, setPath] = useState("");
   const [svg, setSvg] = useState("");
 
@@ -72,106 +51,46 @@ function App() {
       (MAP_WIDTH - scalingFactor * (bound[1][0] + bound[0][0])) / widthRatio,
       (MAP_HEIGHT - scalingFactor * (bound[1][1] + bound[0][1])) / heightRatio,
     ];
-    const svg = D3.select(".map-container")
+    const partialSvg = D3.select(".map-container")
       .append("svg")
       .attr("transform", "translate(0,0)")
       .attr("overflow", "visible")
       .attr("width", "100%")
       .attr("height", "400");
 
-    setSvg(svg);
+    setSvg(partialSvg);
 
     projection.scale(scalingFactor).translate(translatePoint);
 
-    svg
+    partialSvg
       .selectAll("path")
       .data(jsonData["features"])
       .enter()
       .append("path")
       .attr("d", path);
 
-    highlightAllCountries(defaultColorCode, svg);
-  }
-
-  function highlightAllCountries(colorCode, paramSvg) {
-    if (paramSvg) {
-      getPath(paramSvg)
-      .style('fill', colorCode);
-    } else {
-      getPath(svg)
-      .style('fill', colorCode);
-    }
-    
-  }
-
-  function getPath(svg) {
-    return svg
-      .selectAll('path');
+    highlightAllCountries(defaultColorCode, partialSvg);
   }
 
   function getSelectedCountriesList() {
     let highlightedCountriesInRegion;
     let highlightedCountriesInSelectedCountries;
     if (selectedRegion.name === 'Global') {
-      highlightAllCountries(regionColorCode);
+      highlightAllCountries(regionColorCode, svg);
     } else {
       highlightedCountriesInRegion = getMappingCountriesInSelectedRegion(mappingJsonData, selectedRegion);
-      highlightCountries(highlightedCountriesInRegion, regionColorCode);
+      highlightCountries(highlightedCountriesInRegion, regionColorCode, svg);
       if (selectedCountries) {
         highlightedCountriesInSelectedCountries =
           getMappingCountriesInSelectedCoutries(mappingJsonData, selectedCountries);
-        highlightCountries(highlightedCountriesInSelectedCountries, selectedCountryColorCode);
+        highlightCountries(highlightedCountriesInSelectedCountries, selectedCountryColorCode, svg);
       }
     }
   }
 
-  function getMappingCountriesInSelectedRegion(data, region) {
-    return data['mappings']
-      .filter((country) => {
-        return country.region === region.name
-      })
-      .map((country) => {
-        return country.name;
-      });
-  }
-
-  function highlightCountries(countriesList, colorCode) {
-    let flag;
-    getPath(svg)
-      .filter((geoJson) => {
-        flag = false;
-        countriesList.forEach((country) => {
-          if (country === geoJson['properties']['name']) {
-            flag = true;
-          }
-        });
-        return flag;
-      })
-      .style('fill', colorCode);
-  }
-
-  function getMappingCountriesInSelectedCoutries(data, selectedCountries) {
-    let isSelected;
-    return data['mappings']
-      .filter((country) => {
-        isSelected = false;
-        selectedCountries.forEach((selectedCountry) => {
-          country['countries'].forEach(eachCountry => {
-            if (eachCountry === selectedCountry.name) {
-              isSelected = true;
-            }
-          });
-        });
-        return isSelected;
-      })
-      .map((country) => {
-        return country.name;
-      });
-  }
-
   return <div>
     {/* Now  highlightAllCountries button not working/or I dont know how it works*/}
-    {/* <button onClick={() => highlightAllCountries(defaultColorCode)}>highlightAllCountries</button> */}
+    {/* <button onClick={() => highlightAllCountries(defaultColorCode, svg)}>highlightAllCountries</button> */}
     <button onClick={() => getSelectedCountriesList()}>getSelectedCountriesList</button>
     <div className="map-container"></div>
   </div>;
