@@ -1,0 +1,1607 @@
+{
+  "mappings": [
+      {
+          "name": "St-Barthélemy",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Aruba",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Anguilla",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Barbados",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Bermuda",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Bajo Nuevo Bank (Petrel Is.)",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Antigua and Barb.",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Belize",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Bahamas",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Costa Rica",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Cuba",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Curaçao",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Cayman Is.",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Dominican Rep.",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Dominica",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Grenada",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Guatemala",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Canada",
+          "continent": "North America",
+          "countries": ["Canada", "Central, East Canada", "West Canada"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Greenland",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Honduras",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Haiti",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Jamaica",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "St. Kitts and Nevis",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Saint Lucia",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "St-Martin",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Mexico",
+          "continent": "North America",
+          "countries": ["Mexico"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Montserrat",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Nicaragua",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Panama",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Puerto Rico",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Serranilla Bank",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "El Salvador",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "St. Pierre and Miquelon",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Sint Maarten",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Turks and Caicos Is.",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Trinidad and Tobago",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "U.S. Minor Outlying Is.",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "USNB Guantanamo Bay",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "St. Vin. and Gren.",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "British Virgin Is.",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "United States of America",
+          "continent": "North America",
+          "countries": ["USA", "Midwest, Northeast U.S.", "Rockies, Western U.S.", "U.S. Mid Atlantic, South East", "U.S. South (Texas, Florida)"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "U.S. Virgin Is.",
+          "continent": "North America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Bolivia",
+          "continent": "South America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Argentina",
+          "continent": "South America",
+          "countries": ["Argentina"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Colombia",
+          "continent": "South America",
+          "countries": ["Colombia"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Chile",
+          "continent": "South America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Brazil",
+          "continent": "South America",
+          "countries": ["Brazil"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Ecuador",
+          "continent": "South America",
+          "countries": ["Ecuador"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Falkland Is.",
+          "continent": "South America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Guyana",
+          "continent": "South America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Peru",
+          "continent": "South America",
+          "countries": ["Peru"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Paraguay",
+          "continent": "South America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Suriname",
+          "continent": "South America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Uruguay",
+          "continent": "South America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Venezuela",
+          "continent": "South America",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Americas",
+          "global": "Global"
+      },
+      {
+          "name": "Afghanistan",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "United Arab Emirates",
+          "continent": "Asia",
+          "countries": ["UAE"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Armenia",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Azerbaijan",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Bangladesh",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Brunei",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Bhutan",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "China",
+          "continent": "Asia",
+          "countries": ["China"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Cyprus",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Northern Cyprus",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Cyprus",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Dhekelia",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Georgia",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Hong Kong",
+          "continent": "Asia",
+          "countries": ["Hong Kong", "Singapore, Hongkong"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Indian Ocean Ter.",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "replace_Zone",
+          "global": "Global"
+      },
+      {
+          "name": "India",
+          "continent": "Asia",
+          "countries": ["India"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Indonesia",
+          "continent": "Asia",
+          "countries": ["Indonesia", "Pacific Islands, Indonesia"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Iraq",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Iran",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Israel",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Jordan",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Baikonur",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Japan",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Siachen Glacier",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Kazakhstan",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Kyrgyzstan",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Cambodia",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Korea",
+          "continent": "Asia",
+          "countries": ["Korea"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Kuwait",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Lao PDR",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Lebanon",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Sri Lanka",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Macao",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Myanmar",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Mongolia",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Malaysia",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Nepal",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Oman",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Pakistan",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Spratly Is.",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Dem. Rep. Korea",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Philippines",
+          "continent": "Asia",
+          "countries": ["Philippines"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Qatar",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Saudi Arabia",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Scarborough Reef",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Singapore",
+          "continent": "Asia",
+          "countries": ["Singapore", "Singapore, Hongkong"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Syria",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Thailand",
+          "continent": "Asia",
+          "countries": ["Thailand", "Thailand, Greater Mekong"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Tajikistan",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Turkmenistan",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Timor-Leste",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Taiwan",
+          "continent": "Asia",
+          "countries": ["Taiwan"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Turkey",
+          "continent": "Asia",
+          "countries": ["Turkey"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Uzbekistan",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Yemen",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Vietnam",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Angola",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Burundi",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Benin",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Burkina Faso",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Botswana",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Akrotiri",
+          "continent": "Asia",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Central African Republic",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Republic of the Congo",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Djibouti",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Algeria",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Egypt",
+          "continent": "Africa",
+          "countries": ["Egypt"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Ivory Coast",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Ethiopia",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Eritrea",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Ghana",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Cameroon",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Gambia",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Democratic Republic of the Congo",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Equatorial Guinea",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Kenya",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Liberia",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Gabon",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Lesotho",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Madagascar",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Guinea",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Mozambique",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Guinea-Bissau",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Morocco",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Malawi",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Libya",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Namibia",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Niger",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Mauritania",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Mali",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "South Sudan",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Nigeria",
+          "continent": "Africa",
+          "countries": ["Nigeria"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Sierra Leone",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Rwanda",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Western Sahara",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Sudan",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Somaliland",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Senegal",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Swaziland",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Somalia",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "South Africa",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Zimbabwe",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Chad",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Togo",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Aland",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Tunisia",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Zambia",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Uganda",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "United Republic of Tanzania",
+          "continent": "Africa",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Albania",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Andorra",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Bosnia and Herzegovina",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Belarus",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Bulgaria",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Austria",
+          "continent": "Europe",
+          "countries": ["Austria"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Belgium",
+          "continent": "Europe",
+          "countries": ["Belgium", "Benelux, Germany"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Switzerland",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Czech Republic",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Faeroe Is.",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Estonia",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "United Kingdom",
+          "continent": "Europe",
+          "countries": ["UK", "U.K."],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Denmark",
+          "continent": "Europe",
+          "countries": ["Denmark"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Greece",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Spain",
+          "continent": "Europe",
+          "countries": ["Spain"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Germany",
+          "continent": "Europe",
+          "countries": ["Germany", "Benelux, Germany"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Finland",
+          "continent": "Europe",
+          "countries": ["Finland"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "France",
+          "continent": "Europe",
+          "countries": ["France"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Croatia",
+          "continent": "Europe",
+          "countries": ["Croatia"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Hungary",
+          "continent": "Europe",
+          "countries": ["Hungary"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Ireland",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Iceland",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Kosovo",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Lithuania",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Italy",
+          "continent": "Europe",
+          "countries": ["Italy", "Italy and Mediterranean Markets"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Moldova",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Macedonia",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Luxembourg",
+          "continent": "Europe",
+          "countries": ["Benelux, Germany"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Poland",
+          "continent": "Europe",
+          "countries": ["Poland"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Romania",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Latvia",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Malta",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Montenegro",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Slovakia",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Netherlands",
+          "continent": "Europe",
+          "countries": ["Netherlands", "Benelux, Germany"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Republic of Serbia",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Slovenia",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Portugal",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Ukraine",
+          "continent": "Europe",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Norway",
+          "continent": "Europe",
+          "countries": ["Norway"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Sweden",
+          "continent": "Europe",
+          "countries": ["Sweden"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "American Samoa",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "N. Mariana Is.",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Guam",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Kiribati",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Micronesia",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Australia",
+          "continent": "Oceania",
+          "countries": ["Australia", "Australia, New Zealand"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Russia",
+          "continent": "Europe",
+          "countries": ["Russia"],
+          "region": "EAME",
+          "global": "Global"
+      },
+      {
+          "name": "Fiji",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "New Caledonia",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Marshall Is.",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Norfolk Island",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Niue",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Nauru",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Pitcairn Is.",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "New Zealand",
+          "continent": "Oceania",
+          "countries": ["New Zealand", "Australia, New Zealand"],
+          "region": "AP",
+          "global": "Global"
+      },
+      {
+          "name": "Palau",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Vanuatu",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Tonga",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Tuvalu",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Fr. Polynesia",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Wallis and Futuna Is.",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Solomon Is.",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Samoa",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      },
+      {
+          "name": "Papua New Guinea",
+          "continent": "Oceania",
+          "countries": ["Replace_String_With_Actual_SubZone_Name"],
+          "region": "Replace_this_String_With_The_Zone_Name",
+          "global": "Global"
+      }
+  ]
+}
