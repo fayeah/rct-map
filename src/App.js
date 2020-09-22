@@ -1,9 +1,31 @@
 import React, { useEffect, useState } from "react";
 import * as D3 from "d3";
 import "./App.css";
-import countryMappingJson from "./data/countryMappings.json";
+import mappingJsonData from "./data/countryMappings.json";
 import jsonData from "./data/world.json";
-import { COEFFICIENT, MAP_WIDTH, MAP_HEIGHT, defaultColorCode } from "./constants";
+import { COEFFICIENT, MAP_WIDTH, MAP_HEIGHT, defaultColorCode, regionColorCode, selectedCountryColorCode } from "./constants";
+
+const selectedRegion = {
+  countries: [
+    {
+      id: "CN",
+      name: "China"
+    }
+  ],
+  id: "AsiaPac",
+  name: "AsiaPac"
+};
+
+const selectedCountries = [
+  {
+    id: "CN",
+    name: "China"
+  },
+  {
+    id: "KR",
+    name: "South Korea"
+  },
+]
 
 function App() {
   // useState 必须给定初始值，否则会报错：??of undefined; but why？
@@ -71,9 +93,15 @@ function App() {
     highlightAllCountries(defaultColorCode, svg);
   }
 
-  function highlightAllCountries(colorCode, svg) {
-    getPath(svg)
+  function highlightAllCountries(colorCode, paramSvg) {
+    if (paramSvg) {
+      getPath(paramSvg)
       .style('fill', colorCode);
+    } else {
+      getPath(svg)
+      .style('fill', colorCode);
+    }
+    
   }
 
   function getPath(svg) {
@@ -81,7 +109,72 @@ function App() {
       .selectAll('path');
   }
 
-  return <div className="map-container"></div>;
+  function getSelectedCountriesList() {
+    let highlightedCountriesInRegion;
+    let highlightedCountriesInSelectedCountries;
+    if (selectedRegion.name === 'Global') {
+      highlightAllCountries(regionColorCode);
+    } else {
+      highlightedCountriesInRegion = getMappingCountriesInSelectedRegion(mappingJsonData, selectedRegion);
+      highlightCountries(highlightedCountriesInRegion, regionColorCode);
+      if (selectedCountries) {
+        highlightedCountriesInSelectedCountries =
+          getMappingCountriesInSelectedCoutries(mappingJsonData, selectedCountries);
+        highlightCountries(highlightedCountriesInSelectedCountries, selectedCountryColorCode);
+      }
+    }
+  }
+
+  function getMappingCountriesInSelectedRegion(data, region) {
+    return data['mappings']
+      .filter((country) => {
+        return country.region === region.name
+      })
+      .map((country) => {
+        return country.name;
+      });
+  }
+
+  function highlightCountries(countriesList, colorCode) {
+    let flag;
+    getPath(svg)
+      .filter((geoJson) => {
+        flag = false;
+        countriesList.forEach((country) => {
+          if (country === geoJson['properties']['name']) {
+            flag = true;
+          }
+        });
+        return flag;
+      })
+      .style('fill', colorCode);
+  }
+
+  function getMappingCountriesInSelectedCoutries(data, selectedCountries) {
+    let isSelected;
+    return data['mappings']
+      .filter((country) => {
+        isSelected = false;
+        selectedCountries.forEach((selectedCountry) => {
+          country['countries'].forEach(eachCountry => {
+            if (eachCountry === selectedCountry.name) {
+              isSelected = true;
+            }
+          });
+        });
+        return isSelected;
+      })
+      .map((country) => {
+        return country.name;
+      });
+  }
+
+  return <div>
+    {/* Now  highlightAllCountries button not working/or I dont know how it works*/}
+    {/* <button onClick={() => highlightAllCountries(defaultColorCode)}>highlightAllCountries</button> */}
+    <button onClick={() => getSelectedCountriesList()}>getSelectedCountriesList</button>
+    <div className="map-container"></div>
+  </div>;
 }
 
 export default App;

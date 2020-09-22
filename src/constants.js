@@ -21,13 +21,13 @@ export const defaultColorCode = rgb(
   DEFAULT_COLOR_BLUE,
   DEFAULT_COLOR_OPACITY
 );
-const regionColorCode = rgb(
+export const regionColorCode = rgb(
   REGION_COLOR_RED,
   REGION_COLOR_GREEN,
   REGION_COLOR_BLUE,
   REGION_COLOR_OPACITY
 );
-const selectedCountryColorCode = rgb(
+export const selectedCountryColorCode = rgb(
   REGION_COLOR_RED,
   REGION_COLOR_GREEN,
   REGION_COLOR_BLUE,
